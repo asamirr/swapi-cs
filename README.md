@@ -36,7 +36,7 @@ For example, when you visit `http://localhost:8000/character/R2/` you should exp
 
 Just `cd swapi-cs` then `python main.py`
 
-Paste `http://192.168.1.39:5000/character/<name>/` or whatever URL you in the terminal 
+Paste `http://192.168.1.39:5000/character/<name>/` or whatever URL you find in the terminal 
 and start testing with names!
 
 
